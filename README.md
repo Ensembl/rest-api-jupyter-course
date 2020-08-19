@@ -1,7 +1,15 @@
 # rest-api-jupyter-course
 Python and R notebooks to be used by Jupyter
 
-# Prerequisites
+# Using Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ensembl/rest-api-jupyter-course/master)
+
+You can use Binder to execute our Jupyter notebooks. Click on the above image to launch it.
+
+# Running locally using Docker
+
+## Dependencies
 
 1. Git (should be installed on your system)
 2. Docker 
@@ -9,7 +17,7 @@ Python and R notebooks to be used by Jupyter
     - [Windows](https://docs.docker.com/docker-for-windows/)
     - [Linux](https://docs.docker.com/engine/install/))
 
-# To run
+## To run
 
 Open your terminal/command window and type the following.
 
