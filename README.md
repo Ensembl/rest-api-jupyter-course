@@ -15,7 +15,7 @@ You can use Binder to execute our Jupyter notebooks. Click on the above image to
 2. Docker 
     - [Mac](https://docs.docker.com/docker-for-mac/install/)
     - [Windows](https://docs.docker.com/docker-for-windows/)
-    - [Linux](https://docs.docker.com/engine/install/))
+    - [Linux](https://docs.docker.com/engine/install/)
 
 ## To run
 
