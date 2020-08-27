@@ -1,1 +1,0 @@
-This is the Python notebook for the Ensembl REST API course. You'll need to clone it so that you can edit and run the examples, and write your own scripts for the exercises. To do this you'll need to login to your Microsoft account – you should have been warned about this before the course.
